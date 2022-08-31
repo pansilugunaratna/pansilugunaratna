@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=pansilugunaratna&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pansilugunaratna&icon=5&color=6)](https://visitcount.itsvg.in)
