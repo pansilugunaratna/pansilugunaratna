@@ -69,16 +69,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pansilugunaratna&icon=5&color=6)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pansilugunaratna&theme=algolia&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pansilugunaratna&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pansilugunaratna&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pansilugunaratna&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=pansilugunaratna&icon=5&color=6)](https://visitcount.itsvg.in)
