@@ -6,7 +6,7 @@
 ⚡ Fun fact is that I can use any device which is slower than a tortoise
 
 ## 🌐 Socials: 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%FAC2565F.svg?logo=githubpages&logoColor=white)](https://pansilugunaratna.github.io/My-Portfolio/) 
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%FAC2565F.svg?logo=githubpages&logoColor=white)](https://pansilugunaratna.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pansilu-gunaratna/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PansiluGunarat1)  
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/pansilugunarat) 
