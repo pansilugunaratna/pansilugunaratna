@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on a few projects<br>
 👯 I’m looking to collaborate on the latest technologies<br>
-🌱 I’m currently learning flutter and firebase<br>
+🌱 I’m working more with flutter and firebase currently<br>
 💬 Ask me about my interests<br>
 ⚡ Fun fact is that I can use any device which is slower than a tortoise
 
