@@ -1,6 +1,6 @@
 # Hi, I'm Pansilu 👋
 
-**Senior UI/UX Engineer** at a fintech company in Colombo, Sri Lanka.
+A **Senior UI/UX Engineer** at a fintech company in Colombo, Sri Lanka.
 I design product experiences in Figma on top of design systems, then build them in React and Angular.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pansilugunaratna.pages.dev-151514.svg?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNSAxNSAwIDAgMSAwIDIwTTEyIDJhMTUgMTUgMCAwIDAgMCAyMCIvPjwvc3ZnPg%3D%3D)](https://pansilugunaratna.pages.dev)
@@ -41,7 +41,6 @@ I design product experiences in Figma on top of design systems, then build them 
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
 **Workflow**<br>
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -50,7 +49,12 @@ I design product experiences in Figma on top of design systems, then build them 
 
 ### Writing
 
-I write about design and fintech localisation on [LinkedIn](https://www.linkedin.com/in/pansilu-gunaratna/recent-activity/all/), covering Figma motion studies, designing for Arabic and Portuguese number formats, and how colour meaning changes across markets.
+Notes on design and fintech localisation, published on LinkedIn:
+
+- [Figma motion studies and my design process](https://lnkd.in/p/gqNAjFjm) · Jul 2026
+- [Portuguese number formatting in fintech localisation](https://lnkd.in/p/gYsXjXhx) · Mar 2026
+- [Designing for Arabic in fintech](https://lnkd.in/p/gyR5ChsF) · Mar 2026
+- [Colour meaning isn't universal in global markets](https://lnkd.in/p/gt9Gy6kt) · Mar 2026
 
 ---
 
