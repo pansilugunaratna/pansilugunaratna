@@ -1,66 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on a few projects<br>
-👯 I’m looking to collaborate on the latest technologies<br>
-🌱 I’m working more with flutter and firebase currently<br>
-💬 Ask me about my interests<br>
-⚡ Fun fact is that I can use any device which is slower than a tortoise
+# Hi, I'm Pansilu 👋
 
-## 🌐 Socials: 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%FAC2565F.svg?logo=githubpages&logoColor=white)](https://pansilugunaratna.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pansilu-gunaratna/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PansiluGunarat1)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/pansilugunarat) 
-[![Dribble](https://img.shields.io/badge/Dribble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/Pansilu_G) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Silu_08#6360) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pansilu.gunaratne) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pansilu.g) 
+**Senior UI/UX Engineer** at a fintech company in Colombo, Sri Lanka.
+I design product experiences in Figma on top of design systems, then build them in React and Angular.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase) 
-
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
- 	
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-
-<!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)  -->
-<!-- ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=fcd683)  -->
-<!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  -->
-<!-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pansilugunaratna&theme=algolia&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pansilugunaratna&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pansilugunaratna&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pansilugunaratna&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pansilugunaratna.pages.dev-151514.svg?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNSAxNSAwIDAgMSAwIDIwTTEyIDJhMTUgMTUgMCAwIDAgMCAyMCIvPjwvc3ZnPg%3D%3D)](https://pansilugunaratna.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pansilu--gunaratna-%230077B5.svg?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/pansilu-gunaratna/)
+[![Behance](https://img.shields.io/badge/Behance-pansilugunarat-%231769FF.svg?style=flat&logo=behance&logoColor=white)](https://www.behance.net/pansilugunarat)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pansilugunaratna&icon=5&color=6)](https://visitcount.itsvg.in)
 
+### What I'm working on
+
+- **Flagship trading platform:** building features alongside the front-end engineers, and designing new ones when the chance comes up. The platform is customised for more than 130 clients.
+- **Corporate client onboarding:** leading UX improvements to a long, multi-section application.
+- **Investment app:** contributing React UI as needed.
+- **Freelance:** product design in Figma, with each app built on its own design system.
+
+### Selected work
+
+| Project | What it is |
+|---|---|
+| [Primary School parent app](https://pansilugunaratna.pages.dev/primary-school.html) | Freelance parent app with a design system of 270 variables and 162 button variants |
+| [Corporate client onboarding](https://pansilugunaratna.pages.dev/client-onboarding.html) | UX review with ten findings, each paired with a proposed solution |
+| [Portfolio website](https://github.com/pansilugunaratna/portfolio-website) | My portfolio, built with plain HTML, CSS and JavaScript |
+| [Travel Tales](https://www.behance.net/gallery/191790543/Travel-Tales-Travel-Storytelling-Mobile-App) | Travel storytelling app concept, taken from research to prototype |
+
+### Tools I use
+
+**Design**<br>
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IndoaXRlIj5QczwvdGV4dD48L3N2Zz4%3D&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IndoaXRlIj5BaTwvdGV4dD48L3N2Zz4%3D&logoColor=white)
+
+**Front-end**<br>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+
+**Workflow**<br>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078D7.svg?style=flat&logo=vscodium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
+### Writing
+
+I write about design and fintech localisation on [LinkedIn](https://www.linkedin.com/in/pansilu-gunaratna/recent-activity/all/), covering Figma motion studies, designing for Arabic and Portuguese number formats, and how colour meaning changes across markets.
+
+---
+
+<sub>Open to freelance UI/UX projects and conversations about design and front-end roles. You can reach me through my [portfolio](https://pansilugunaratna.pages.dev/#contact).</sub>
